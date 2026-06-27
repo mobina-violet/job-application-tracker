@@ -9,8 +9,7 @@ This is my **first Next.js project**, where I learned App Router, Server Actions
 
 ## 📸 Preview
 
-
-`![Dashboard Preview](./public/preview.png)`
+![Dashboard Preview](./public/preview.png)
 
 ---
 
